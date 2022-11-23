@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668860821 source:c:\users\adam kagdi\github\freecodecamp-c\first\main.c
+	<stdio.h>
+	<stdlib.h>
+
